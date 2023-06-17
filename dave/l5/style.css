@@ -1,0 +1,10 @@
+p{
+    font-size: 36px ;
+    border: 2px dashed red;
+}
+
+h1{
+    border: 2px dashed red;
+    width: 30%;
+    padding: 2px;
+}
